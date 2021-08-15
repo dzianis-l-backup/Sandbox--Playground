@@ -1,0 +1,24 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "just to quickly make experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sandbox"
+  ],
+  "author": "Dzianis Leanenka",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-loader": "^8.2.2",
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.48.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {}
+}
